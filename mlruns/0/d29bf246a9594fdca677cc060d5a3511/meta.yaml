@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/E2E-DL-pipeline/mlruns/0/d29bf246a9594fdca677cc060d5a3511/artifacts
+end_time: 1730584787313
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d29bf246a9594fdca677cc060d5a3511
+run_name: orderly-sloth-553
+run_uuid: d29bf246a9594fdca677cc060d5a3511
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730584768899
+status: 4
+tags: []
+user_id: Dev Pratap Singh
