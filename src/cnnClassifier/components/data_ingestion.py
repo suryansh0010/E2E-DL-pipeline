@@ -11,7 +11,7 @@ class DataIngestion:
         self.config = config
 
 
-     
+      
      
     def download_file(self)-> str:
         '''
