@@ -10,8 +10,8 @@ from cnnClassifier.utils.common import read_yaml, create_directories,save_json
 class Evaluation:
     def __init__(self, config: EvaluationConfig):
         self.config = config
-
-     
+ 
+      
     def _valid_generator(self):
 
         datagenerator_kwargs = dict(
